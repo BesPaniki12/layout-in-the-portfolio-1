@@ -1,1 +1,10 @@
  
+$(function(){
+
+$('.reviews-slider').slick({});
+
+
+});
+
+
+
