@@ -405,7 +405,51 @@ i.check {
     padding-top: 160px;
 }
 
-.reviews-slider__item {}
+.reviews-slider .slick-list{
+
+margin: 0 -50px;
+}
+
+
+
+.reviews-slider .slick-track{
+    margin: 0 50px;
+    
+}
+
+.reviews-slider__item {
+
+}
+
+.reviews-slider .slick-dots{
+list-style: none;
+display: flex;
+justify-content: center;
+
+
+
+
+
+
+}
+
+.reviews-slider .slick-dots button{
+    font-size: 0px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    padding: 0px;
+    border: none;
+    background-color: #267ae9;
+    outline: none;
+    
+    
+    }
+
+    /* .reviews-slider .slick-dots button:active, button:focus {
+        outline: none;
+      } */
+  
 
 .reviews-box {
     box-shadow: 0 21px 49px 1px rgba(41, 44, 61, 0.15);
