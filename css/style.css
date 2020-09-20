@@ -413,7 +413,6 @@ i.check {
     margin: 0 50px;
 }
 
-
 .reviews-slider .slick-dots {
     list-style: none;
     display: flex;
@@ -423,14 +422,12 @@ i.check {
 
 .reviews-slider .slick-dots li {
     margin: 0 8px;
-    
 }
 
 .reviews-slider .slick-dots li.slick-active button {
     background-color: #fafafa;
     border: 2px solid #267ae9;
 }
-
 
 .reviews-slider .slick-dots button {
     font-size: 0px;
@@ -443,12 +440,10 @@ i.check {
     outline: none;
 }
 
-
 .reviews-box {
     box-shadow: 0 21px 49px 1px rgba(41, 44, 61, 0.15);
     display: flex;
 }
-
 
 .reviews-box__images {
     background-color: #267ae9;
@@ -466,7 +461,6 @@ i.check {
 .reviews-box__text {
     margin-bottom: 30px;
 }
-
 
 .reviews-box__author span {
     color: #267ae9;
