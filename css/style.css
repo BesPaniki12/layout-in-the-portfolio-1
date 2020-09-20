@@ -424,10 +424,9 @@ i.check {
     margin: 0 8px;
 }
 
-.reviews-slider .slick-dots li.slick-active button {
-    background-color: #fafafa;
-    border: 2px solid #267ae9;
-}
+
+
+
 
 .reviews-slider .slick-dots button {
     font-size: 0px;
@@ -440,6 +439,10 @@ i.check {
     outline: none;
 }
 
+.reviews-slider .slick-dots li.slick-active button {
+    background-color: #fafafa;
+    border: 2px solid #267ae9;
+}
 .reviews-box {
     box-shadow: 0 21px 49px 1px rgba(41, 44, 61, 0.15);
     display: flex;
