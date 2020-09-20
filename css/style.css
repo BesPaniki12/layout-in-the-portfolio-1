@@ -443,9 +443,6 @@ i.check {
     outline: none;
 }
 
-/* .reviews-slider .slick-dots button:active, button:focus {
-        outline: none;
-      } */
 
 .reviews-box {
     box-shadow: 0 21px 49px 1px rgba(41, 44, 61, 0.15);
@@ -470,7 +467,6 @@ i.check {
     margin-bottom: 30px;
 }
 
-.reviews-box__author {}
 
 .reviews-box__author span {
     color: #267ae9;
