@@ -1,5 +1,4 @@
- 
-$(function(){
+ $(function(){
 
 $('.reviews-slider').slick({
     infinite: true,
@@ -9,8 +8,11 @@ $('.reviews-slider').slick({
   dots: true
 });
 
+$('.btn__menu').on('click', function(){
+    $('.menu__list').slideToggle();
+  });
+
 
 });
-
 
 
